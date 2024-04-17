@@ -10,4 +10,5 @@ Sample code from Microsoft documentation
 * [Cosmos - Node.js](https://learn.microsoft.com/en-us/training/modules/build-node-cosmos-app-vscode/)
 * [Function - Node.js](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-typescript?pivots=nodejs-model-v4)
 * [Function - Go](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other?tabs=go%2Cmacos)
-*
+* [Key Vault - Node.js](https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-node?tabs=azure-cli%2Cmacos)
+* [Queue Storage - Node.js](https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-nodejs?tabs=connection-string%2Croles-azure-portal%2Cenvironment-variable-windows%2Csign-in-azure-cli)
