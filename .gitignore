@@ -1,0 +1,5 @@
+.env*
+docs/Labs
+functions-go/handler
+.DS_Store
+node_modules
